@@ -16,13 +16,13 @@ layout: nil
 
   {% for post in site.posts %}
   <entry>
-    <id>http://cestlaz.github.com/minutia{{ post.id }}</id>
+    <id>http://cestlaz.github.com{{ post.id }}</id>
     <link type="text/html" rel="alternate" href="http://cestlaz.github.com/minutia{{ post.url }}"/>
     <title>{{ post.title | xml_escape }}</title>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <author>
       <name>C'est la Z</name>
-      <uri>http://cestlaz.github.com</uri>
+      <uri>http://cestlaz.github.com/</uri>
     </author>
     <content type="html">{{ post.content | xml_escape }}</content>
   </entry>
