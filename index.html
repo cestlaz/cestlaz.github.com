@@ -32,18 +32,18 @@ border-radius:8px;
 before
 </div>
 <div class="span10 blogbody">
-<ul>
   {% for post in paginator.posts %}
  
 
-  <li><a href="{{ post.url }}">
-      {{ post.title }}
-    </a> - 
-<a href="{{ post.url }}#disqus_thread"></a>
+  <h3><a href="{{ post.url }}">
+      {{ post.title }}</a></h3> 
+    <p> {{post.date}}
+    <p>
+    <a href="{{ post.url }}#disqus_thread"></a> 
+<p><p>
       {{ post.content }}
-  </li>
+<hr>
   {% endfor %}
-</ul>
 
 <!-- Pagination links -->
 <div class="pagination">
