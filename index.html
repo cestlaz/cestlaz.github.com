@@ -7,14 +7,29 @@ body {
   background-color: #dceaf4;
 }
 .container {
+background-color:  #dceaf4;
+}
+.span8 {
 background-color: white;
 }
+
+.span2 {
+background-color: white;
+}
+
+
+}
+
 </style>
+
 
 <div class="container">
 
-
-<div class="span10">
+<div class="row">
+<div class="span2">
+before
+</div>
+<div class="span8">
 <ul>
   {% for post in site.posts %}
  
@@ -27,6 +42,12 @@ background-color: white;
   </li>
   {% endfor %}
 </ul>
+</div>
+
+<div class="span2">
+stuff
+</div>
+
 </div>
 
 </div>
