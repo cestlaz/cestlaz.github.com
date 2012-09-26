@@ -11,7 +11,7 @@ layout: nil
   <id>http://cestlaz.github.com/</id>
   <author>
     <name>Mike Zamansky</name>
-    <email>zamansky@stuycs.org</email>
+    <email>zamansky@gmail.com</email>
   </author>
 
   {% for post in site.posts %}
