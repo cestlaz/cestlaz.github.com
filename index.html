@@ -9,20 +9,18 @@ body {
 .container {
 background-color:  #dceaf4;
 }
-.span8 {
+
+
+
+
+
+.blogbody {
 background-color: white;
+padding: 20px;
 -mox-border-radius: 8px;
 border-radius:8px;
 }
 
-.span2 {
-background-color: white;
--mox-border-radius: 8px;
-border-radius:8px;
-}
-
-
-}
 
 </style>
 
@@ -30,10 +28,10 @@ border-radius:8px;
 <div class="container">
 
 <div class="row">
-<div class="span2">
+<div class="span1 blogbody">
 before
 </div>
-<div class="span8">
+<div class="span10 blogbody">
 <ul>
   {% for post in paginator.posts %}
  

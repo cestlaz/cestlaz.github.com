@@ -4,10 +4,42 @@ layout: default
 
 <h2 class="content">{{page.title}}</h2>
 
+<style>
 
-{{ content }}
+body {
+padding:20px;
+  background-color: #dceaf4;
+}
+.container {
+background-color:  #dceaf4;
+}
+.postbody {
+background-color: white;
+padding: 20px;
+-mox-border-radius: 8px;
+border-radius:8px;
+}
+
+
+
+
+
+</style>
+
+
+<div class="container">
+  <div class="row">
+    <div class="span10 offset1 postbody">
+      {{ content }}
+    </div>
+  </div>
+</div>
+
 
 <hr/>
+<a href="/">Back to the blog </a>
+<hr/>
+
    <div id="disqus_thread"></div>
         <script type="text/javascript">
             /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
@@ -26,5 +58,6 @@ layout: default
         
 
 <hr/>        
+<a href="/">Back to the blog </a>
 
-<a href="/minutia/">Back to the minutia page </a>
+
