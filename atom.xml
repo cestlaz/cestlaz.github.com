@@ -4,14 +4,14 @@ layout: nil
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
-  <title>cestlaz.github.com/minutia</title>
-  <link href="http://cestlaz.github.com/minutia/"/>
-  <link type="application/atom+xml" rel="self" href="http://cestlaz.github.com/minutia/atom.xml"/>
+  <title>cestlaz.github.com</title>
+  <link href="http://cestlaz.github.com"/>
+  <link type="application/atom+xml" rel="self" href="http://cestlaz.github.com/atom.xml"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <id>http://cestlaz.github.com/minutia/</id>
+  <id>http://cestlaz.github.com</id>
   <author>
     <name>Mike Zamansky</name>
-    <email>zamnasky@stuycs.org</email>
+    <email>zamansky@gmail.com</email>
   </author>
 
   {% for post in site.posts %}
@@ -22,7 +22,7 @@ layout: nil
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <author>
       <name>C'est la Z</name>
-      <uri>http://cestlaz.github.com/minutia/</uri>
+      <uri>http://cestlaz.github.com</uri>
     </author>
     <content type="html">{{ post.content | xml_escape }}</content>
   </entry>
