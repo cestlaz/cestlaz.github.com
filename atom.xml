@@ -5,23 +5,23 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
  
   <title>cestlaz.github.com</title>
-  <link href="http://cestlaz.github.com"/>
+  <link href="http://cestlaz.github.com/"/>
   <link type="application/atom+xml" rel="self" href="http://cestlaz.github.com/atom.xml"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <id>http://cestlaz.github.com</id>
+  <id>http://cestlaz.github.com/</id>
   <author>
     <name>Mike Zamansky</name>
-    <email>zamansky@gmail.com</email>
+    <email>zamansky@stuycs.org</email>
   </author>
 
   {% for post in site.posts %}
   <entry>
     <id>http://cestlaz.github.com{{ post.id }}</id>
-    <link type="text/html" rel="alternate" href="http://cestlaz.github.com/minutia{{ post.url }}"/>
+    <link type="text/html" rel="alternate" href="http://cestlaz.github.com{{ post.url }}"/>
     <title>{{ post.title | xml_escape }}</title>
     <updated>{{ post.date | date_to_xmlschema }}</updated>
     <author>
-      <name>C'est la Z</name>
+      <name>Mike Zamansky</name>
       <uri>http://cestlaz.github.com/</uri>
     </author>
     <content type="html">{{ post.content | xml_escape }}</content>
