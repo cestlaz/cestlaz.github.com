@@ -1,36 +1,9 @@
 ---
 layout: mainpage
 ---
-<style>
-
-body {
-  background-color: #dceaf4;
-}
-.container {
-background-color:  #dceaf4;
-}
-
-
-
-
-
-.blogbody {
-background-color: white;
-padding: 20px;
--mox-border-radius: 8px;
-border-radius:8px;
-}
-
-
-</style>
-
 
 <div class="container">
-
 <div class="row">
-<div class="span1 blogbody">
-before
-</div>
 <div class="span10 blogbody">
   {% for post in paginator.posts %}
  
@@ -46,6 +19,7 @@ before
   {% endfor %}
 
 <!-- Pagination links -->
+
 <div class="pagination">
   {% if paginator.previous_page %}
     <a href="/page{{paginator.previous_page}}" class="previous">Previous</a>
@@ -60,13 +34,11 @@ before
   {% endif %}
 </div>
 
-
 </div>
 
-<div class="span2">
-stuff
+<div class="span1 blogbody">
+hellodkf ldjfldsjfldsjfd lsjfl
 </div>
 
 </div>
-
 </div>
