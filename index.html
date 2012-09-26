@@ -11,10 +11,14 @@ background-color:  #dceaf4;
 }
 .span8 {
 background-color: white;
+-mox-border-radius: 8px;
+border-radius:8px;
 }
 
 .span2 {
 background-color: white;
+-mox-border-radius: 8px;
+border-radius:8px;
 }
 
 
@@ -31,7 +35,7 @@ before
 </div>
 <div class="span8">
 <ul>
-  {% for post in site.posts %}
+  {% for post in paginator.posts %}
  
 
   <li><a href="{{ post.url }}">
@@ -42,6 +46,23 @@ before
   </li>
   {% endfor %}
 </ul>
+
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="/page{{paginator.previous_page}}" class="previous">Previous</a>
+  {% else %}
+    <span class="previous">Previous</span>
+  {% endif %}
+  <span class="page_number ">Page: {{paginator.page}} of {{paginator.total_pages}}</span>
+  {% if paginator.next_page %}
+    <a href="/page{{paginator.next_page}}" class="next ">Next</a>
+  {% else %}
+    <span class="next ">Next</span>
+  {% endif %}
+</div>
+
+
 </div>
 
 <div class="span2">
