@@ -116,6 +116,7 @@ margin:0;
 <div class="blogbody">
   <ul class="nav nav-list">
     <li class="nav-header">Past Posts</li>
+    <li class="divider"></li>
   {% for post in site.posts limit:8 %}
     <li><a href="{{ post.url }}">{{post.title}}</a></li>
   {% endfor    %}
