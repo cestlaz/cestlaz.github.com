@@ -25,7 +25,7 @@ I can be competitive and we often won but high school should be about
 exposing kids to new experiences and the exclusiveness of competitive
 sports seems to be contrary to this.
 
-That's why I love Stuy's rowing club. I've been involved in the program
+Thats why I love Stuy's rowing club. I've been involved in the program
 for about five years now. Prior to that many of my CS students were
 involved and they kept saying "Z - you've got to check out the rowing
 club." During good weather, every Wednesday, we go up to <a
@@ -48,7 +48,7 @@ The Icebreaker Northeast Regional Youth Rowning Championships. Our
 kids got to meet and compete with kids from all over the northeast.
 
 <div align="center">
-<img width="400px" src="/img/icebreaker1.jpg"></img>
+<img width="400px" src="/img/icebreaker1.jpg">
 </div>
 
 If you're wondering about how we do with the non-cut format - both of
@@ -58,7 +58,7 @@ first sixes division. And yes, that's Batya in the picture - she coxed
 our first fours.
 
 <div align="center">
-<img width="400px" src="/img/rowingteam.jpg"></img>
+<img width="400px" src="/img/rowingteam.jpg">
 </div>
 
 
