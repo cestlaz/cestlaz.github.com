@@ -25,7 +25,7 @@ I can be competitive and we often won but high school should be about
 exposing kids to new experiences and the exclusiveness of competitive
 sports seems to be contrary to this.
 
-Thats why I love Stuy's rowing club. I've been involved in the program
+That's why I love Stuy's rowing club. I've been involved in the program
 for about five years now. Prior to that many of my CS students were
 involved and they kept saying "Z - you've got to check out the rowing
 club." During good weather, every Wednesday, we go up to <a
