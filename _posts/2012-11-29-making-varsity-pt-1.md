@@ -48,7 +48,7 @@ The Icebreaker Northeast Regional Youth Rowning Championships. Our
 kids got to meet and compete with kids from all over the northeast.
 
 <div align="center">
-<img width="400px" src="/img/icebreaker1.jpg">
+<img width="400px" src="/img/icebreaker1.jpg"></img>
 </div>
 
 If you're wondering about how we do with the non-cut format - both of
@@ -58,7 +58,7 @@ first sixes division. And yes, that's Batya in the picture - she coxed
 our first fours.
 
 <div align="center">
-<img width="400px" src="/img/rowingteam.jpg">
+<img width="400px" src="/img/rowingteam.jpg"></img>
 </div>
 
 
