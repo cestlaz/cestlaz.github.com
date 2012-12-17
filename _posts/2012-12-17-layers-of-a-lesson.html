@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 name: Layers of a lesson 
 title: Layers of a lesson
@@ -10,6 +10,7 @@ tags: CS Computer Science Education CSEd teaching
 <img width="50%" src="/img/turtle-anim.gif" class="" alt="" />
 </div>
 
+<p>
 <p>
 My last post I was talking about the fact that as teachers, our
 knowledge and experience is frequently trivialized. The tenor of the
@@ -49,7 +50,7 @@ A solution might look like this:
 ; asked in a turtle context
 to gospin
   ifelse abs xcor < 8 or abs ycor < 8 
-    [ wiggle ]
+    [ wiggle ] ; wiggle implementation not shown
     [ left 5 ]
 end
 </pre>
@@ -63,18 +64,19 @@ instructions to the problem, showing how it solves it, and that's it.
 This is the simplest level. A book, video, or online courseware can
 approach teaching at this level. A non computer scientist teacher or a
 non teacher computer scientist could do so as well. Students might
-learn a pattern or two but I wouldn't hope for much inspiration or
+learn a bit but I wouldn't hope for much inspiration or
 creativity to come out of it.
 
 <p>
 Let's move to level two. 
 <p>
-Here we might talk about "what the turtles are doing." This is a step
-in the right direction. When done right, the students start thinking
-about the problem in a more general sense but they're still looking at
-the problem as something that exists only in the world of
-NetLogo. They are more likely develop patterns than in level one, but
-it's still limited.
+Here we might talk about "what the turtles are doing." They're always
+doing something, either wiggling or spinning. This is a step in the
+right direction. When done right, the students start thinking about
+the problem in a more general sense but they're still looking at the
+problem as something that exists only in the world of NetLogo. They
+are more likely develop patterns than in level one, but it's still
+limited.
 
 <p>
 Level three is where things get interesting. On the surface, the
