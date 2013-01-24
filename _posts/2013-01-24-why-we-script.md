@@ -19,7 +19,7 @@ The code is up on GitHub. This morning I was faced with independently
 going to every project page and cloning each one:
 
 <div align="center">
-<a href="/img/github-projects.png" rel="lightbox">
+<a href="http://cestlaz.github.com/img/github-projects.png" rel="lightbox">
 <img width="50%" src="/img/github-projects.png" class="" alt="" />
 </a>
 </div>
