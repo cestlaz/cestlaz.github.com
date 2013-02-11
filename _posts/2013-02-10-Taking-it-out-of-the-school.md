@@ -31,7 +31,7 @@ First up, John Lee of <a href="http://schoolyourself.org/index.html">School Your
 John talked about big data. Starting with a question "Who plays Chase
 on House?" John showed that by looking at huge data sets we can,
 relatively easily, come up with the answer. John showed that problems
-such as question answering is really accesible to youngsters. They
+such as question answering is really accessible to youngsters. They
 might just be beginning, but they're not far away from being able to
 do some really cool things.
 
@@ -49,7 +49,7 @@ companies, successes, failures and the adventure along the way. Moisey was frank
 </div>
 
 Also talking about big data but Spike talked more about the dangers of
-misinterpreting data and how different representations can yeild very
+misinterpreting data and how different representations can yield very
 different results. Spike also spent time giving career advice.
 
 
@@ -64,7 +64,7 @@ different results. Spike also spent time giving career advice.
 <a href="https://twitter.com/TimNovikoff">Tim Novikoff</a> gave a different perspective. Tim spoke about how his explorations in IOS development lead in a roundabout way to his doctoral studies and very interesting research.
 
 
-Hitting cleanup was Gerry Seidman of <a href="http://www.tactonic.com/company.html">Taconic Technologies</a>. 
+Hitting cleanup was Gerry Seidman of <a href="http://www.tactonic.com/company.html">Tactonic Technologies</a>. 
 
 Gerry gave a whirlwind talk about many of the things he's worked
 on. As he said "I don't have time to talk about anything, so I'll talk
@@ -95,7 +95,7 @@ While each talk was different, there were common themes:
 </ul>
 
 It was a great first event. We're very excited about <a
-href="http://cstuy.org">CSTUY</a> and are looking ot roll out more
+href="http://cstuy.org">CSTUY</a> and are looking at roll out more
 programs including more talks, classes, mentoring, internships and
 more. We're also planning professional development opportunities for
 computer science teachers.
