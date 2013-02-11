@@ -14,8 +14,7 @@ and Technology for Urban Youth. Yeah, we backed into the
 acronym. Let's bring Stuy CS out of Stuy so we can work on inspiring
 a wider range of students.
 
-Well, last Wednesday we had our inaugural event. As a first event, we
-aimed to inspire. Hosted
+Well, last Wednesday we had our inaugural event. Hosted
 by <a href="http://www.techstars.com/program/locations/nyc/">NY
 TechStars</a> (thanks Moisey), we invited 75 youngsters to an evening
 of talks. The idea was to have five different speakers each deliver
@@ -67,7 +66,10 @@ different results. Spike also spent time giving career advice.
 
 Hitting cleanup was Gerry Seidman of <a href="http://www.tactonic.com/company.html">Taconic Technologies</a>. 
 
-Gerry gave a whirlwind talk about many of the things he's worked on. As he said "I don't have time to talk about anything, so I'll talk about everything." Highlights included the lates touch technology he's working on as well as vacation man++.
+Gerry gave a whirlwind talk about many of the things he's worked
+on. As he said "I don't have time to talk about anything, so I'll talk
+about everything." Highlights included the latest touch technology he's
+working on as well as vacation man++.
 
 <div align="center">f
 <a href="/img/techstars-2-6/vacationman.png" rel="lightbox">
