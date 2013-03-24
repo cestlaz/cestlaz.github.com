@@ -15,7 +15,7 @@ A young lady in my intro class found me in my office near the end of the day:
 
 > Me: What's up?
 
-> Student: I wanted to tell you that todays lesson was AWESOME!!!!!!
+> Student: I wanted to tell you that today's lesson was AWESOME!!!!!!
 
 Wow. I've been teaching 23 years and that's never happened before!!!!
 
