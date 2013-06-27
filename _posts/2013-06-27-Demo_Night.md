@@ -87,7 +87,7 @@ An attempt at fixing all the problems students have registering for classes at S
 ##### Winner -- most amusing project
 * Team: Ivan Smirnoff Jules Skrill
 * Github: [https://github.com/stuycs-softdev/StallWall](https://github.com/stuycs-softdev/StallWall)
-* Live: 
+* Live: [http://ml7.stuycs.org:45454/](http://ml7.stuycs.org:45454/)
 
 Collaborative network writing on the bathroom wall!!!!
 
