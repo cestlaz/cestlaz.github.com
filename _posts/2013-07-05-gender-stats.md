@@ -105,7 +105,6 @@ hover around 30%.</li>
 </tr>
 </tbody>
 </table>
-<br/><br/>
 
 You might wonder why I included the C Physics numbers. Of all the
 other STEM AP classes, C Physics is probably the most analagous to AP
