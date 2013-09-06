@@ -87,7 +87,7 @@ class to observe a teacher, he asked himself one question: "is
 learning going on?" He knew that teaching could take on numerous forms
 but by working from that base question, he could evaluate and work with any teacher.
 
-It should really just be that simple.
+It should really be that simple.
 
 
 
