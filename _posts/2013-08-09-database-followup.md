@@ -23,11 +23,29 @@ that.
 
 Soon the discussion turned to optimizing search based on different
 "keys." Searching by student id or searching by name. This led to the
-idea of indices. For example, sorting an array of name keys that point
-into our main database.
+idea of indices. For example, if our main data set is sorted by name, we can make auxiliary lists sorted by id or grades and use those to point into our main data set.
+
+
+<div align="center">
+<a href="/img/2013-10-09-database-part2/indices.png" rel="lightbox">
+<img width="50%" src="/img/2013-10-09-database-part2/indices.png" class="" alt="" />
+</a>
+</div>
+
 
 This was followed by less monolithic ideas -- essentially ideas behind
 linking different tables using key fields. For example, a student
 table with student id and a transcript table where each line has a
 student id, a class, grade, teacher, and date.
 
+<div align="center">
+<a href="/img/2013-10-09-database-part2/links.png" rel="lightbox">
+<img width="50%" src="/img/2013-10-09-database-part2/links.png" class="" alt="" />
+</a>
+</div>
+
+Pretty sophisticated ideas.
+
+From there we talked about assorted data structures that we could use with these ideas. 
+
+I think it was a productive day.
