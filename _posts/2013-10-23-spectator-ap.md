@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 name: The College Board Smorgasbord -Don't Overfill Your Plate
 title: The College Board Smorgasbord -Don't Overfill Your Plate
