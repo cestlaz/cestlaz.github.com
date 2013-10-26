@@ -1,15 +1,12 @@
 ---
-published: false
+published: true
 layout: post
 name: Hacking Sessions - Week 2 
 title: Hacking Sessions - Week 2
 tags: 
 ---
 
-Sitting here while JonAlf talks to our hackers about using the Flask
-microframework.
-
-Today was the second day of CSTUY's Hacking Sessions. We started out
+Saturday was the second day of CSTUY's Hacking Sessions. We started out
 wit a minor panic - none of the laptops could connect to the
 wireless!!! After a brief scramble, we finally gave up and gave our
 host a call (sorry Davin) and the problem was swiftly addressed. From
@@ -19,9 +16,20 @@ Last week we spent most of the session with mixers and setting up the
 laptops. Not today. Sam started us off with a brief survey of Python -
 some of the Hackers had never seen it before.
 
-From there we divided up the hackers - making sure to spread out the Pythonistas and they were off on a project.
+From there we divided up the hackers - making sure to spread out the
+Pythonistas and they were off on a project. We did a little pig-latin
+converter. It's a fun project to start a class with since it can be
+attacked in a few different ways and you can illustrate a lot of
+interesting coding techniques.
 
 It was really nice to watch things develop. At first groups were four
-hackers working on four laptops. Soon, with the encouragement of our
-awesome TAs, it was two groups of two talking to each other and then,
-groups of four all working together. 
+individual hackers working on four laptops. Soon, with the
+encouragement of our awesome TAs, it was two groups of two talking to
+each other and then finally, groups of four all working together.
+
+22 students from 9 schools all hacking together - that's what we're
+trying to build. I think we're off to a great start.
+
+We finished the day sharing the projects and learning a little bit
+about the Flask microframework for Python.
+
