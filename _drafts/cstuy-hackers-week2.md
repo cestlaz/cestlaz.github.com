@@ -21,5 +21,7 @@ some of the Hackers had never seen it before.
 
 From there we divided up the hackers - making sure to spread out the Pythonistas and they were off on a project.
 
-It was really nice to watch things develop. At first groups were four hackers working on four laptops. Soon, with the encouragement of our awesome TAs, it was two groups of two talking to each other and then, groups of four all working together.
-
+It was really nice to watch things develop. At first groups were four
+hackers working on four laptops. Soon, with the encouragement of our
+awesome TAs, it was two groups of two talking to each other and then,
+groups of four all working together. 
