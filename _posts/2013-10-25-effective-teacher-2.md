@@ -29,7 +29,7 @@ evaluate (and some of us believe fire) teachers. So, since I don't
 teach English or Math, the closest I come to having some impact on the kids whos grades will determine my effectiveness will
 be proctoring this exam. Well, that's a fair measure of my value as a teacher.
 
-So, that's 40% of my evaluation, 60^ comes from observation but
+So, that's 40% of my evaluation, 60% comes from observation but
 there's a loophole. If the school doesn't perform at a satisfactory
 level, even if I ace the 60%, I will be deemed ineffective. Now, I
 know I don't have a large readership, but I'm guessing there are
