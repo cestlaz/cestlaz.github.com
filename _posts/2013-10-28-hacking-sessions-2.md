@@ -6,6 +6,14 @@ title: Hacking Sessions - Week 2
 tags: 
 ---
 
+<div align="center">
+<a href="/img/2013-10-28-hacking-sessions-2/hackers2.jpg" rel="lightbox">
+<img width="50%" src="/img/2013-10-28-hacking-sessions-2/hackers2.jpg" class="" alt="" />
+</a>
+</div>
+
+
+
 Saturday was the second day of CSTUY's Hacking Sessions. We started out
 wit a minor panic - none of the laptops could connect to the
 wireless!!! After a brief scramble, we finally gave up and gave our
@@ -20,7 +28,8 @@ From there we divided up the hackers - making sure to spread out the
 Pythonistas and they were off on a project. We did a little pig-latin
 converter. It's a fun project to start a class with since it can be
 attacked in a few different ways and you can illustrate a lot of
-interesting coding techniques.
+interesting coding techniques. For instance, checking for vowels or
+consenants can be done with conditionals but testing set membership: **if letter in "aeiou": ** is a touch more elegant.
 
 It was really nice to watch things develop. At first groups were four
 individual hackers working on four laptops. Soon, with the
