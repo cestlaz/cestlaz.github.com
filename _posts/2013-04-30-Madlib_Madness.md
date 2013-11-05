@@ -25,29 +25,22 @@ We did our own versions using Python files, lists and
 dictionaries. 
 
 Here are some of the results:
-<ul>
-<li><a href="http://homer.stuy.edu/~richard.zhan/19-Madlibs.py">
+ 1. <a href="http://homer.stuy.edu/~richard.zhan/19-Madlibs.py">
 http://homer.stuy.edu/~richard.zhan/19-Madlibs.py
 </a>
-</li>
-<li><a href="http://homer.stuy.edu/~veronika.azzara/madlibifystory.py">
+ 2. <a href="http://homer.stuy.edu/~veronika.azzara/madlibifystory.py">
 http://homer.stuy.edu/~veronika.azzara/madlibifystory.py
 </a>
-</li>
-<li><a href="http://homer.stuy.edu/~belinda.liang/18-MadLibsMiniProject.py">
+ 3. <a href="http://homer.stuy.edu/~belinda.liang/18-MadLibsMiniProject.py">
 http://homer.stuy.edu/~belinda.liang/18-MadLibsMiniProject.py
 </a>
-</li>
-<li><a href="http://homer.stuy.edu/~kyle.oleksiuk/MadlibifyProject5.py">
+ 4. <a href="http://homer.stuy.edu/~kyle.oleksiuk/MadlibifyProject5.py">
 http://homer.stuy.edu/~kyle.oleksiuk/MadlibifyProject5.py
 </a>
-</li>
-<li><a href="http://homer.stuy.edu/~phillip.huynh/story.py">
+ 5. <a href="http://homer.stuy.edu/~phillip.huynh/story.py">
 http://homer.stuy.edu/~phillip.huynh/story.py
 </a>
-</li>
-</ul>
-<p/>
+
 The students wrote a basic story with substitution points. Their
 programs then randomly replaced these points with words from an
 assortment of categorized lists. 

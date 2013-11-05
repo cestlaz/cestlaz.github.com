@@ -6,8 +6,8 @@ title: Evaluating Teachers - Evaluating schools
 tags: Education, Teaching, Schools
 ---
 
-The Problem: 
-============
+# The Problem: 
+
 
 The buzz word is "accountability." Why are teachers special? Why don't
 they feel they need to be evaluated like other professionals? Why do
@@ -33,8 +33,8 @@ Beyond that, the powers that be state that teacher accountability
 revolves around flawed "value added" metrics but other bloggers such as Gary
 Rubintein have already done a great job debunking that.
 
-The Solution:
-=============
+# The Solution:
+
 
 The solution is to simplify. There's a better way. Let's start by
 making the principals accountable. Bottom line is that they're
@@ -66,8 +66,8 @@ Elementary Schools
 
 Same thing -- look at the middle schools. 
 
-The end game
-============
+# The end game
+
 
 With this measure in mind we can truly hold a principal
 accountable. By looking at a bottom line measure, the principal can
@@ -76,16 +76,16 @@ to teach to the test or have their creativity destroyed by
 standardized lessons -- as long as they get results, a principal would
 want them.
 
-The Positives
-=============
+# The Positives
+
 
 * It's simple 
 * It allows for tremendous flexibility within a school
 * It measures bottom line success, not arbitrary test results
-* It doesn't require huge contracts with private companies like Pearson.
-
-The Negatives
-=============
+* It doesn't require huge contracts with private companies like Pearson
+ 
+# The Negatives
+    l
 
 * We still need to have enough structure to make sure kids get a well
   rounded education and are not just "job shops."  
