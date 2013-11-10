@@ -19,13 +19,28 @@ Just what do I mean by that?
 Usually during project time, but throughout the year, students will aske me a coding question. They'll ask things like:
 
 > How do I find the shortest path between two locations, I think it's called Dijkstra's algorithm?
->
- How can I model gravity and flight accurately......?
+
+> I need to sort a really large data set on disk by multiple keys.
+
+> 
 
 
 
-While I love teaching these topics, usually they're not what the kids
-really need. So often, a young programmer gets a thought as to what
-they think the solution to a problem is, they lose sight of the real
-question.
+While I love teaching these topics, usually the kids are asking the wrong questions. 
+
+They're confronted with a problem in their project and somehow end up focusing on some algorithm, data structure or technique in particular and they lose sight of the real problem.
+
+Our conversations go something like this:
+
+Student: How do I do filintheblank
+
+Me: What are you trying to accomplish
+
+Student: I'm trying to write fillintheblank
+
+Me: No, what is the problem you're trying to solve.
+
+Student looks confused.
+
+We go back and forth for a bit until the student reveals the root problem that they're having and frequently this leads the student to both a deeper understanding of their problem and frequently an easier solution.
 
