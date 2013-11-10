@@ -74,5 +74,20 @@ What about a forum with email announcements?
 
 What do we really need? A forum type situation and the ability to post links or files. I think that's about it.
 
-So far, we've been trying [piazza](http://www.piazza.com). For me, it
-doesn't do it.
+**Piazza**: So far, we've been trying **[piazza](http://www.piazza.com)**. I know a lot of college courses us it but it
+doesn't do it for me. I've heard from more than one hacker that it's hard to
+keep track of threads and the page is somewhat cluttered. Also, there
+is a way to put up "resources" but it's not obvious where they live
+(at least not to me).
+
+What else?
+
+**Moodle**: Looks like overkill to me. Besides, the forums just don't
+  look that good. I've set this up on a server to play with and might
+  use it for my day job but it doesn't look right for CSTUY Hacking
+  Sessions.
+
+**Google Groups**: This is what I'm currently using for my classes. Of
+  course, in my classes, I can require the students check once a day. The downside here is that it's only email and registering students has become more of a pain. In the past I could just upload all my students at once. Now I'm restricted to 10 at a time and I think 100 a day.
+
+**Vanilla Forums**: This is what I'm leaning to right now.
