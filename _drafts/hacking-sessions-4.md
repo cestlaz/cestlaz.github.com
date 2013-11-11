@@ -8,21 +8,21 @@ tags:
 
 
 <div align="center">
-<a href="/img/2013-10-31-halloween/crew.jpg" rel="lightbox">
-  <img width="50%" src="/img/2013-10-31-halloween/crew.jpg" class="" alt="" />
+<a href="/img/hacking-sessions-4/week4-tri.jpg" rel="lightbox">
+  <img width="50%" src="/img/hacking-sessions-4/week4-tri.jpg" class="" alt="" />
 </a>
 </div>
 
 We just finished week 4 of CSTUY's Hacking Sessions. 
 
 I'm really happy with how our hackers are doing - they're a great
-bunch and even if they don't realize it yet, are making great progess.
+bunch and even if they don't realize it yet, are making great progress.
 
 Meanwhile, as an instructor and program designer I'm noticing the
 differences between a once a week program and having a class every day
 (note - I'm not the sole designer or instructor. I have a great team -
-onAlf, Sam, and Topher are three of the best teachers I've had the
-privilage of working with - this post, however, is based on my
+JonAlf, Sam, and Topher are three of the best teachers I've had the
+privilege of working with - this post, however, is based on my
 observations).
 
 ####Once a week vs every day
@@ -45,7 +45,7 @@ Some of what we teach is boring. Other things are difficult and can be frustrati
 
 When you know you have the kids all term, you don't have to worry
 about a bad day on your part or on the students. They'll be back
-tomorrow and you can win the back. 
+tomorrow and you can win them back. 
 
 In a once a week voluntary program you have to be more careful.
 
@@ -64,30 +64,24 @@ This is the one that's vexed me most.
 Since we're only meeting once a week, it would be really great if we
 can generate some online dialog in between. So far, it's been tough.
 
-The question is - what tool to use?
+Even in class, over the years, I've had mixed levels of success with
+online communication. Some classes, some years, I've gotten great buy
+in to an online class community. The dialog is consistent, varied, and
+great. Other times, it's just the bare minimum.
 
-Should it be something like a mailing list where they'll get stuff in the inbox? If we do this there's a danger of things getting lost in the inbox and threads being hard to follow.
+In my classes I usually use a Google group but I'm becoming less and
+less happy with that as a solution. For Hacking Sessions we've been
+using [Piazza](http://www.piazza.com) so far but in spite of its
+popularity at colleges, I'm not feeling it. I find it both cluttered
+and limiting. I think we're going to try Vanilla forums next. It's
+pretty easy to host and fairly flexible.
 
-Should it be some software like an online forum that the students go to? Here the hackers have to regularly go to the site.
+I'm hoping that in a few weeks we'll get past the basic tools and onto
+some neat project and it'll be easier to encourage talk throughout the
+week.
 
-What about a forum with email announcements?
-
-What do we really need? A forum type situation and the ability to post links or files. I think that's about it.
-
-**Piazza**: So far, we've been trying **[piazza](http://www.piazza.com)**. I know a lot of college courses us it but it
-doesn't do it for me. I've heard from more than one hacker that it's hard to
-keep track of threads and the page is somewhat cluttered. Also, there
-is a way to put up "resources" but it's not obvious where they live
-(at least not to me).
-
-What else?
-
-**Moodle**: Looks like overkill to me. Besides, the forums just don't
-  look that good. I've set this up on a server to play with and might
-  use it for my day job but it doesn't look right for CSTUY Hacking
-  Sessions.
-
-**Google Groups**: This is what I'm currently using for my classes. Of
-  course, in my classes, I can require the students check once a day. The downside here is that it's only email and registering students has become more of a pain. In the past I could just upload all my students at once. Now I'm restricted to 10 at a time and I think 100 a day.
-
-**Vanilla Forums**: This is what I'm leaning to right now.
+<div align="center">
+<a href="/img/hacking-sessions-4/week4-chris.jpg" rel="lightbox">
+  <img width="50%" src="/img/hacking-sessions-4/week4-chris.jpg" class="" alt="" />
+</a>
+</div>
