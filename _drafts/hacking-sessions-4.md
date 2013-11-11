@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 name: Hacking Sessions Week 4 - The challenges of once a week
 title: Hacking Sessions Week 4 - The challenges of once a week
@@ -45,17 +45,20 @@ Some of what we teach is boring. Other things are difficult and can be frustrati
 
 When you know you have the kids all term, you don't have to worry
 about a bad day on your part or on the students. They'll be back
-tomorrow and you can win them back. 
+tomorrow. Meeting with people every day makes it much easier to
+develop connections.
 
 In a once a week voluntary program you have to be more careful.
 
 ####We can't count on work over the week
 
 I'm hoping that once we get a little further along the hackers will
-want to work on projects over the week. That said, we know that Hacking Sessions is extra curricular so when the hackers have big assignments, SAT exams and the like, we have to take a back seat. 
+want to work on projects over the week. That said, we know that
+Hacking Sessions is extra curricular so when the hackers have big
+assignments, SAT exams and the like, we have to take a back seat.
 
-So, the default for a Saturday program is that it's a partial restart every week. That's tough.
-
+So, the default for a Saturday program is that it's a partial restart
+every week. That's a challenge.
 
 ####Communication is tough
 
@@ -79,6 +82,14 @@ pretty easy to host and fairly flexible.
 I'm hoping that in a few weeks we'll get past the basic tools and onto
 some neat project and it'll be easier to encourage talk throughout the
 week.
+
+####Overall
+
+So, this is a new challenge but a fun one - designing and implementing
+a once a week program. Bottom lining it - I think the hackers are
+doing great and we're off to a really strong start. We'll make some
+mistakes along the way but as long as we keep looking at what we're
+doing we can adjust as we move along we'll continue to build a great program.
 
 <div align="center">
 <a href="/img/hacking-sessions-4/week4-chris.jpg" rel="lightbox">
