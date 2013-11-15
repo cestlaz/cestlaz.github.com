@@ -5,12 +5,18 @@ name:
 title:
 tags: 
 ---
-
+0. intro
 1. my toolkit
 2. digital ocean
 3. basic navigation
+4. piping and redirection
+
 
 cut and sort -- google forms to csv
+
+building the minutia list -- names | cut | sort -R
+
+find for homework sorting
 
 find?
 
