@@ -18,7 +18,6 @@ building the minutia list -- names | cut | sort -R
 
 find for homework sorting
 
-find?
-
+tmux --detatch - go to work - attach
 
 task based or command based
