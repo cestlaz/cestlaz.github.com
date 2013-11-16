@@ -18,6 +18,9 @@ building the minutia list -- names | cut | sort -R
 
 find for homework sorting
 
+tar |ssh to copy
+
+
 tmux --detatch - go to work - attach
 
 task based or command based
