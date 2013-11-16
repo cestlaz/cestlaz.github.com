@@ -12,7 +12,7 @@ tags:
 </a> 
 </div>
 
-Week 4.
+Week 5.
 
 Last week, I lamented over the difficulties with only meeting once a
 week. We went over a log of new material last week and I was happy
