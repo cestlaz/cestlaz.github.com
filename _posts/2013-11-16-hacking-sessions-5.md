@@ -39,7 +39,7 @@ We liked the setup for a few reasons:
  * The hackers also had last weeks code as a reference.
 
 We also introduced the hackers to pair programming - something I love
-form a pedagogical point of view - but more on that in another post.
+from a pedagogical point of view - but more on that in another post.
 
 Overall I think the day went very well.
 
