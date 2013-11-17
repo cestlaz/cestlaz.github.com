@@ -42,16 +42,18 @@ Just a couple more steps for today.
 If you follow the above tutorial, you should be able to use **ssh** (or **putty** on Windows) to log onto your server as root. You'll want a non-root account. Let's say I'm creating account for myself, the dialog will look something like this:
 
 
-> root@server1:~# adduser zamansky
+> root@server1:~# adduser **zamansky**
+
 > Adding user `zamansky' ...
+
 >  Adding new group `zamansky' (1002) ...
->   Adding new user `zamansky' (1002) with group `zz' ...
->   Creating home directory `/home/zz' ...
+>   Adding new user `zamansky' (1002) with group `zamansky' ...
+>   Creating home directory `/home/zamansky' ...
 >   Copying files from `/etc/skel' ...
 >   Enter new UNIX password: **ENTER YOUR PASSWORD - NOTHING WILL SHOW**
 >   Retype new UNIX password: **ENTER YOUR PASSWORD - NOTHING WILL SHOW**
 >   passwd: password updated successfully
->   Changing the user information for zz
+>   Changing the user information for zamansky
 >   Enter the new value, or press ENTER for the default
 >   	Full Name []: **Mike Zamansky**
 >   	Room Number []: 
@@ -60,7 +62,6 @@ If you follow the above tutorial, you should be able to use **ssh** (or **putty*
 >   	Other []: 
 >   Is the information correct? [Y/n] **y**
 >   root@server1:~# 
->
 
 
 The stuff you type is in bold.
