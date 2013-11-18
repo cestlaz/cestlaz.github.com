@@ -28,7 +28,7 @@ floating around on line for a free month).
 
 On top of that, the Digital Ocean team is putting together a great series of [tutorials](https://digitalocean.com/community) on all manner of Linux Dev/Ops stuff.
 
-So, if you want an easy way to play with some of this stuff, head on over there and make an accout.
+So, if you want an easy way to play with some of this stuff, head on over there and make an account.
 
 Now that you have an account, you can follow this
 [tutorial](https://digitalocean.com/community/articles/how-to-create-your-first-digitalocean-droplet-virtual-server)
@@ -66,7 +66,7 @@ If you follow the above tutorial, you should be able to use **ssh** (or **putty*
 
 The stuff you type is in bold.
 
-> root@server1:~# addgroup zamansky sudo
+> root@server1:~# **addgroup zamansky sudo**
 > Adding user `zamansky' to group `sudo' ...
 > Adding user zamansky to group sudo
 > Done.
