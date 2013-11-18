@@ -41,34 +41,34 @@ Just a couple more steps for today.
 
 If you follow the above tutorial, you should be able to use **ssh** (or **putty** on Windows) to log onto your server as root. You'll want a non-root account. Let's say I'm creating account for myself, the dialog will look something like this:
 
+<pre>
+root@server1:~# adduser <b>zamansky</b>
 
-> root@server1:~# adduser **zamansky**
-
-> Adding user `zamansky' ...
-
->  Adding new group `zamansky' (1002) ...
->   Adding new user `zamansky' (1002) with group `zamansky' ...
->   Creating home directory `/home/zamansky' ...
->   Copying files from `/etc/skel' ...
->   Enter new UNIX password: **ENTER YOUR PASSWORD - NOTHING WILL SHOW**
->   Retype new UNIX password: **ENTER YOUR PASSWORD - NOTHING WILL SHOW**
->   passwd: password updated successfully
->   Changing the user information for zamansky
->   Enter the new value, or press ENTER for the default
->   	Full Name []: **Mike Zamansky**
->   	Room Number []: 
->   	Work Phone []: 
->   	Home Phone []: 
->   	Other []: 
->   Is the information correct? [Y/n] **y**
->   root@server1:~# 
-
+  adding user `zamansky' ...
+  adding new group `zamansky' (1002) ...
+  Adding new user `zamansky' (1002) with group `zamansky' ...
+  Creating home directory `/home/zamansky' ...
+  Copying files from `/etc/skel' ...
+  Enter new UNIX password: <b>ENTER YOUR PASSWORD - NOTHING WILL SHOW</b>
+  Retype new UNIX password: <b>ENTER YOUR PASSWORD - NOTHING WILL SHOW</b>
+  passwd: password updated successfully
+  Changing the user information for zamansky
+  Enter the new value, or press ENTER for the default
+	Full Name []: <b>Mike Zamansky</b>
+	Room Number []:
+	Work Phone []: 
+	Home Phone []: 
+	Other []: 
+	Is the information correct? [Y/n] <b>y</b>
+root@server1:~# 
+</pre>
 
 The stuff you type is in bold.
 
-> root@server1:~# **addgroup zamansky sudo**
-> Adding user `zamansky' to group `sudo' ...
-> Adding user zamansky to group sudo
-> Done.
-> root@server1:~# 
-
+<pre>
+root@server1:~# <b>addgroup zamansky sudo</b>
+  Adding user `zamansky' to group `sudo' ...
+  Adding user zamansky to group sudo
+  Done.
+root@server1:~# 
+</pre>
