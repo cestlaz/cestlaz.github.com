@@ -47,7 +47,7 @@ wanted to introduce generics:
 Turns out, you can no longer do this.
 
 After doing some searching, there does appear to be a way to get this
-affect but it was certainly not something I wanted to do with my
+effect but it was certainly not something I wanted to do with my
 classes. I was looking for something more pedagogically sound - an
 easy way to show the concept and a way to springboard to an ArrayList.
 
