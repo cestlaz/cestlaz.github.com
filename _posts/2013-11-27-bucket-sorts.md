@@ -2,7 +2,7 @@
 published: true
 layout: post
 name: Bucket Sorting
-title:Bucket Sorting
+title: Bucket Sorting
 tags: 
 ---
 
