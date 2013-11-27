@@ -1,8 +1,8 @@
 ---
 published: true
 layout: post
-name: Buckets
-title:Buckets
+name: Bucket Sorting
+title:Bucket Sorting
 tags: 
 ---
 
@@ -61,7 +61,7 @@ and we've got a single platform to compare and contrast the two. Which
 is better when and why?
 
 The algorithm itself is also worth talking about. 
-
+ 
  * It's relatively simple - we did it by hand before implementing it.
  * It's got some history worth discussing.
  * There are a number of other questions we can approach
